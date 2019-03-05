@@ -4,6 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension","vats","megafon","api"],
     "license": "MIT",
+    "minimum-stability": "dev",
     "version": "1.0.0",
     "authors": [
         {
